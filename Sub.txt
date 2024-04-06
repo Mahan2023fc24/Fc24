@@ -1,2 +1,4 @@
 warp://@auto#WARP IRAN 🇮🇷 
 warp://@auto#WARP IRAN 🇮🇷 
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@141.11.189.205:8080#%40proprojec
+vless://bb7dfafd-cc18-43f6-bb6c-c71c4d49cdef@104.21.25.99:443/?type=ws&flow=&host=de2-vless.sshmax.xyz&path=%2Fvless&security=tls&sni=de2-vless.sshmax.xyz#%40proprojec

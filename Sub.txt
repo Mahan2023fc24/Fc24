@@ -19,3 +19,4 @@ vless://6847f901-3938-4083-9fd9-2de96bcb6b9f@104.16.60.8:443?path=%2Fvncf0bfUuZ6
 vless://f5a78514-1a94-486e-92a7-3bc9817095a6@172.67.156.27:443?path=%2Fnimws&security=tls&encryption=none&host=nitriding.appreviewcenter.com&type=ws&sni=nitriding.appreviewcenter.com#%40proprojec
 vless://bb7dfafd-cc18-43f6-bb6c-c71c4d49cdef@104.21.25.99:443?path=%2Fvless&security=tls&encryption=none&host=de2-vless.sshmax.xyz&type=ws&sni=de2-vless.sshmax.xyz#%40proprojec
 vmess://eyJhZGQiOiI3OS4xNzUuMTUxLjExMiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI2ZTgzZWYwZi03MGE3LTRiZTgtOTc5YS04YmM3YTQxZjQyMjQiLCJuZXQiOiJ3cyIsInBhdGgiOiIvcm9odjJyYXkiLCJwb3J0IjoiNTgyNzEiLCJwcyI6IkBwcm9wcm9qZWMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
+warp://auto

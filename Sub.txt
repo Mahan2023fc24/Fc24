@@ -16,3 +16,8 @@ vmess://eyJhZGQiOiJ3d3cuaWxvdmVwZGYuY29tIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIs
 vless://c3077f1d-3b94-4a83-aecb-f4e9beb4dc7e@[::ffff:6812:cae8]:8080?path=%2F&security=none&encryption=none&host=xn--047h.iman-v2ray.sbs.&type=ws#%F0%9F%9F%A3%F0%9F%94%A5+%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%D8%B3%D8%B1%D9%88%D8%B1+%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5%DB%8C+%D8%A8%D8%A7+%D8%B3%D8%B1%D8%B9%D8%AA+%D8%A8%D8%A7%D9%84%D8%A7+%D8%AA%D8%B6%D9%85%DB%8C%D9%86%DB%8C+%40Outlinev_2rayNG
 vless://ff3c4db3-2259-479e-a0e0-7af7d1d429db@shaliest.toptechnonews.com:443?path=%2Fnimws&security=tls&encryption=none&type=ws&sni=shaliest.toptechnonews.com#%F0%9F%9F%A3%F0%9F%94%A5+%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%D8%B3%D8%B1%D9%88%D8%B1+%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5%DB%8C+%D8%A8%D8%A7+%D8%B3%D8%B1%D8%B9%D8%AA+%D8%A8%D8%A7%D9%84%D8%A7+%D8%AA%D8%B6%D9%85%DB%8C%D9%86%DB%8C+%40Outlinev_2rayNG
 vless://SVNTEAMm@wifi.VPNPROSEC.com:80?path=%2FSvnTeam-TeleGram-ChaNnel-VIP%3Fed%3D2048&security=none&encryption=none&host=SvnTeamV2rayIT7.7.7.7.ir.Com.Site.xn--fhq0laa256bac7403eea044azr5g.CoM.&type=ws#%F0%9F%9F%A3%F0%9F%94%A5+%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%D8%B3%D8%B1%D9%88%D8%B1+%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5%DB%8C+%D8%A8%D8%A7+%D8%B3%D8%B1%D8%B9%D8%AA+%D8%A8%D8%A7%D9%84%D8%A7+%D8%AA%D8%B6%D9%85%DB%8C%D9%86%DB%8C+%40Outlinev_2rayNG
+warp://188.114.98.91:1002/?ifp=5-10
+warp://188.114.96.241:1070/?ifp=5-10
+warp://188.114.96.42:8742/?ifp=5-10
+warp://188.114.98.77:942/?ifp=5-10
+warp://188.114.99.135:942/?ifp=5-10

@@ -85,3 +85,5 @@ trojan://71409d3e488548e8bb076d229778f008@198.41.220.4:443?path=6b777a91&securit
 trojan://4732adfa16c6450bbef87264e41332db@104.16.192.138:443?path=6b777a91&security=tls&host=jobscareerforlawyers.com&type=ws&sni=jobscareerforlawyers.com#%40Vpn_Shield
 trojan://242a3d8eee5e4ed1a6bfa4141d549a25@198.41.220.12:443?path=6b777a91&security=tls&host=jobscareerforlawyers.com&type=ws&sni=jobscareerforlawyers.com#%40Vpn_Shield
 trojan://242a3d8eee5e4ed1a6bfa4141d549a25@198.41.220.2:443?path=6b777a91&security=tls&host=jobscareerfortoday.com&type=ws&sni=jobscareerfortoday.com#%40Vpn_Shield
+warp://auto#1
+warp://auto#2

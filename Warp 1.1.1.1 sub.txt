@@ -1,3 +1,4 @@
-warp://@auto#FC24
-warp://@auto#E_FOOTBALL 2024
-warp://@auto#mahan warp 1.1.1.1
+warp://162.159.192.202:878/?ifp=5-10
+warp://162.159.192.245:894/?ifp=5-10
+warp://162.159.192.40:878/?ifp=5-10
+warp://162.159.195.18:878/?ifp=5-10

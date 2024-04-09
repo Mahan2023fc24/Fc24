@@ -1,3 +1,4 @@
-warp://yWcb9638-46u7nC3Z-w857e6Aj@auto/?ifp=5-10
-warp://fTG2B951-6hq032us-sXk0684q@auto/?ifp=5-10
-warp://0wgq47V5-zK7S1c06-dEv09s36@auto/?ifp=5-10
+warp://162.159.192.100:878/?ifp=5-10
+warp://162.159.192.100:894/?ifp=5-10
+warp://162.159.192.102:878/?ifp=5-10
+warp://162.159.192.123:894/?ifp=5-10

@@ -1,5 +1,2 @@
 warp://162.159.195.93:4233?ifp=10-20&ifps=20-60&ifpd=5-10#iran 🇮🇷&&detour=warp://162.159.195.93:4233?ifp=10-20&ifps=20-60&ifpd=5-10#Germany 🇩🇪
 warp://162.159.195.234:1010?ifp=10-20&ifps=20-60&ifpd=5-10#iran 🇮🇷&&detour=warp://162.159.195.234:1010?ifp=10-20&ifps=20-60&ifpd=5-10#Germany 🇩🇪
-warp://188.114.99.142:8742?ifp=10-20&ifps=20-60&ifpd=5-10#iran 🇮🇷&&detour=warp://188.114.99.142:8742?ifp=10-20&ifps=20-60&ifpd=5-10#Germany 🇩🇪
-warp://188.114.98.242:4233?ifp=10-20&ifps=20-60&ifpd=5-10#iran 🇮🇷&&detour=warp://188.114.98.242:4233?ifp=10-20&ifps=20-60&ifpd=5-10#Germany 🇩🇪
-warp://188.114.99.31:864?ifp=10-20&ifps=20-60&ifpd=5-10#iran 🇮🇷&&detour=warp://188.114.99.31:864?ifp=10-20&ifps=20-60&ifpd=5-10#Germany 🇩🇪
